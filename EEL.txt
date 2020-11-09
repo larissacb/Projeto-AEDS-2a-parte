@@ -1,0 +1,8 @@
+EEL Calculo_1 Sandra_Mara 40 T
+EEL Educacao_Corporal Jacqueline_Viveiros 40 M
+EEL Programacao_De_Computadores_1 a_definir 40 T
+EEL Contexto_Social Rosilene_Dias 40 T
+EEL GAAV Charles_Souza 40 T
+EEL Quimica Joao_Bosco 40 T
+EEL Calculo_2 Andre_Ferreira 40 T
+EEL Fisica_1 a_definir 40 T
